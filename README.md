@@ -7,4 +7,4 @@
 
 # Languages and Tools:
 
-<img src="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
